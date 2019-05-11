@@ -14,7 +14,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "deploy:gh": "ng build --prod --base-href='https://jnparamitha.github.io/jihannabilla.git/' && ngh",
-    "postinstall": "ng build --output-path herojihan-app --aot --prod"
+    "postinstall": "ng build --output-path app-herokuu08 --aot --prod"
   },
   "private": true,
   "dependencies": {
